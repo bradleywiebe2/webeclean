@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       We Be Clean
  * Plugin URI:        https://github.com/bradleywiebe2/webeclean
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       This plugin will optimize and clean your sites images, CSS and more.
  * Version:           1.0.0
  * Author:            Brad Wiebe
  * Author URI:        http://bradleywiebe.com
